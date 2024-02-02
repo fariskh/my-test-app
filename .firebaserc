@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "my-test-project-625a3"
+  },
+  "targets": {
+    "my-test-project-625a3": {
+      "hosting": {
+        "faris-dev": [
+          "my-test-project-625a3"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
